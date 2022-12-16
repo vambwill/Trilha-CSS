@@ -1,2 +1,2 @@
 # Trilha CSS
- Land pag Dio.
+ Exercício: Construir uma Landing pag da Dio.
